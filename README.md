@@ -83,6 +83,7 @@ Here, basic information is exposed immediately when loading a charity, but the l
 ### Loading a model
 
 JavaScript Code to load project 10:
+
     e.app.community.project(10, function(err, project) {
         if(err)
             alert('Error, ' + err);
