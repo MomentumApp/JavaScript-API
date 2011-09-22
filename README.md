@@ -1,5 +1,9 @@
 # JavaScript API
 
+## API Reference
+
+[View the Complete API Reference](https://github.com/MomentumApp/JavaScript-API-Docs/wiki)
+
 ## Including in a page
 
 Since jQuery is required for AJAX functionality, add jQuery and then the API script as follows:
